@@ -1,0 +1,3 @@
+([('wordChainGameV1_1',
+   '/Users/afarooq1/PycharmProjects/words_game/dist/wordChainGameV1_1',
+   'EXECUTABLE')],)
