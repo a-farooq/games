@@ -15,7 +15,7 @@ class Player
 public:
     Player(char a) : symbol(a)
     {
-        srand(time_t(NULL));
+        srand((unsigned)time(0));
     }
     char getSymbol()
     {
