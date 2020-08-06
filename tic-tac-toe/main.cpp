@@ -9,6 +9,7 @@
 #include <iostream>
 
 using namespace std;
+
 class Player
 {
     char symbol;
